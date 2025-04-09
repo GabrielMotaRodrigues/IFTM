@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="HTML, CSS, Web Design">
+    <meta name="author" content="Gabriel da Mota Rodrigues">
+    <title>Gabriel da Mota Rodrigues</title>
+</head>
+<body style="background-color: rgb(214,227,188);">
+    <h1 style="text-align: center; color:rgb(67,112,153); font-family: Vernada; margin-top: 30px; margin-left: 50px;"> Sistemas para Internet </h1>
+        
+    <p style="font-family: Tahoma; margin-top: 30px; margin-left: 50px;"> <b><span style="color:red; font-size:30px;">A</span></b>formatação deste texto utiliza tags <strong>HTML</strong> para <del>configura-lo</del> <u>formatá-lo</u>. Porém, há <i style="color:red">tecnologias melhores</i> para se fazer isso, como por exemplo <b><i style="color:red">CSS<sup>3</sup></i></b></p>
+</body>
+</html>
